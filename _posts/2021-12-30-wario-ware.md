@@ -1,5 +1,5 @@
 ---
-title:  "Wario Ware"
+title:  "CrimeWare : Neon Heist"
 excerpt: >
   
 classes: wide
@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.3
 ---
 
-![](../assets/images/wario-ware.png)
+![](../assets/images/Crimeware.png)
 
 L'année de bachelor Game Programming à Rubika comprend un projet de Wario Ware like s'étalant de octobre 2021 à fin janvier 2022.
 
