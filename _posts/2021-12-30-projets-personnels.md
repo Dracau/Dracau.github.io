@@ -68,16 +68,6 @@ row6:
     btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
     btn_class: "btn--primary"
     url: /hitori/
-
-row7:
-  - image_path: /assets/images/hitorilogo.png
-    alt: "Runner Goodvest"
-    title: "Runner Goodvest"
-    excerpt: >
-      Création d'un runner pour l'entreprise Goodvest en août 2022.
-    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
-    btn_class: "btn--primary"
-    url: /goodvest-runner/
 ---
 
 {% include feature_row id="row1" type="left" %}
@@ -91,5 +81,3 @@ row7:
 {% include feature_row id="row5" type="left" %}
 
 {% include feature_row id="row6" type="right" %}
-
-{% include feature_row id="row7" type="left" %}
