@@ -1,5 +1,5 @@
 ---
-title:  "Projets professionnels"
+title:  "Projets personnels"
 excerpt: >
   
 layout: categories
@@ -10,14 +10,14 @@ header:
   overlay_filter: 0.3
 
 row1:
-  - image_path: /assets/images/goodvest-runner.png
-  alt: "Runner Goodvest"
-  title: "Runner Goodvest"
+  - image_path: /assets/images/hitorilogo.png
+  alt: "Hitori"
+  title: "Hitori"
   excerpt: >
-  Mission freelance de runner pour l'entreprise Goodvest.
+  Adaptation d'un jeu de logique au format d'un jeu mobile, réalisé entre octobre et novembre 2021.
   btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
   btn_class: "btn--primary"
-  url: /goodvest-runner/
+  url: /hitori/
 ---
 
 {% include feature_row id="row1" type="left" %}
