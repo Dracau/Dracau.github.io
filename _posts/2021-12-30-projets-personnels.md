@@ -8,7 +8,6 @@ header:
   overlay_color: "#5e616c"
   overlay_image: 
   overlay_filter: 0.3
----
 row1:
   - image_path: /assets/images/spoops-skirmish-logo.gif
     alt: "Spoops Skirmish"
