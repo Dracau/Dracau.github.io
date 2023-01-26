@@ -17,7 +17,7 @@ row1:
       Projets réalisés dans un cadre professionnel.
     btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
     btn_class: "btn--primary"
-    url: /projets-professionnels/
+    url: /test/
 
 row2:
   - image_path: /assets/images/GT-fighting-game.png
