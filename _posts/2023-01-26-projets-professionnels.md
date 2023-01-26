@@ -1,5 +1,5 @@
 ---
-title:  "Projets personnels"
+title:  "Projets professionnels"
 excerpt: >
   
 layout: categories
@@ -9,16 +9,15 @@ header:
   overlay_image: 
   overlay_filter: 0.3
 ---
-
 row1:
-  - image_path: /assets/images/hitorilogo.png
-  alt: "Hitori"
-  title: "Hitori"
+- image_path: /assets/images/skytemple-logo.png
+  alt: "Contribution SkyTemple"
+  title: "Contribution SkyTemple"
   excerpt: >
-  Adaptation d'un jeu de logique au format d'un jeu mobile, réalisé entre octobre et novembre 2021.
+  SkyTemple est un outil open-source de modification d’image disque (ou ROM) de Pokémon Donjon Mystère: Explorateurs du Ciel, ayant un grand attachement à ce jeu j’ai cherché à contribuer à ce projet.
   btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
   btn_class: "btn--primary"
-  url: /hitori/
+  url: /skytemple-pr/
 ---
 
 {% include feature_row id="row1" type="left" %}
