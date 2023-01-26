@@ -8,6 +8,7 @@ header:
   overlay_color: "#5e616c"
   overlay_image: 
   overlay_filter: 0.3
+---
 row1:
   - image_path: /assets/images/goodvest-runner.png
     alt: "Runner Goodvest"
@@ -20,7 +21,3 @@ row1:
 ---
 
 {% include feature_row id="row1" type="left" %}
-
-{% include feature_row id="row2" type="right" %}
-
-{% include feature_row id="row3" type="left" %}

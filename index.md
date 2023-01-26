@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/tentacle-draft-1.gif
 excerpt: >
   Mon portfolio
-
+---
 row1:
   - image_path: /assets/images/goodvest-runner.png
     alt: "Projets Professionnels"
