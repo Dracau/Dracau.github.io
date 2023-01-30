@@ -11,7 +11,7 @@ header:
 
 ![](../assets/images/rubika.png)
 
-Ces prototypes ont été créés en 6h pour des cours ou des examens sur Unity à Rubika.
+Ces prototypes ont été créés en 6h pour des examens.
 
 - 13 Décembre 2020 : Shoot'em up
 

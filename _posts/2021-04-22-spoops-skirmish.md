@@ -11,7 +11,7 @@ header:
 
 ![](../assets/images/spoops-skirmish-logo.gif)
 
-Spoops Skirmish est un jeu de combat jouable localement au clavier, il a été réalisé du 12 au 18 mars 2021 dans le cadre de la WeeklyGameJam #192 qui avait pour thème « Objet Hanté ». Il est jouable gratuitement sur [ma page itch.io](https://dracau.itch.io/spoops-skirmish)
+Spoops Skirmish est un jeu de combat jouable localement au clavier, il a été réalisé du 12 au 18 mars 2021 dans le cadre de la WeeklyGameJam #192 qui avait pour thème « Objet Hanté ».
 
 Dans ce jeu, chaque joueur contrôle un fantôme rouge ou bleu (que l’on appelle un Spoop), chacun a un bloc à disposition qu’il peut soulever ou hanter. Lorsqu’un bloc est hanté, il peut lancer un faisceau de lumière qui tue le Spoop adverse, il est aussi possible de tuer un Spoop en l’écrasant avec un bloc.
 

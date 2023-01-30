@@ -9,14 +9,11 @@ header:
   overlay_filter: 0.3
 ---
 
-![](../assets/images/eco-runner-animated.gif)
+![](../assets/images/i-cant-bear-you.gif)
 
 La première année de Mastère Game Programming à Rubika comprend un projet à destination de Steam
 
 Ce projet est réalisé en coopération entre la filière Game Programming et la fillière Game Design, soit environ 40 élèves. L'organisation du projet est pensée pour reproduire l'organisation d'un studio, avec des trios chargés de développer les mini-jeux du Wario-Ware, des team leaders et des responsable du macro-jeu.
-
-
-J'ai aussi créé un outil permettant à l'entreprise des récupérer la liste des joueurs et de leurs scores.
 
 ![](../assets/images/eco-runner-score.png)
 
