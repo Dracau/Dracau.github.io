@@ -19,4 +19,4 @@ Dans ce jeu on joue un lapin qui ouvre un food truck sur la lune. Il va devoir c
 
 ![](../assets/images/rabbit-end-of-service.PNG)
 
-Dans ce projet j'ai pris le rôle de développeur gameplay et UI. Je me suis principalement concentré sur la partie liée aux objets et aux mini-jeux de cuisine.
+Dans ce projet j'ai pris le rôle de développeur gameplay et UI. Je me suis principalement concentré sur la partie liée aux objets ainsi qu'aux mini-jeux de cuisine et à leur optimisation.
