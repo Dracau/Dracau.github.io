@@ -8,7 +8,7 @@ header:
 excerpt: >
   Mon portfolio
 row1:
-  - image_path: /assets/images/goodvest-runner.png
+  - image_path: /assets/images/eco-runner.png
     alt: "Projets Professionnels"
     title: "Projets Professionnels"
     excerpt: >
