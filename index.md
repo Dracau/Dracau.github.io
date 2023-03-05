@@ -5,7 +5,7 @@ hidden: false
 header:
   overlay_color: "#5e616c"
   overlay_filter: 0.3
-  overlay_image: /assets/images/eco-runner.gif
+  overlay_image: /assets/images/eco-runner-animated.gif
 excerpt: >
   Mon portfolio
 row1:
