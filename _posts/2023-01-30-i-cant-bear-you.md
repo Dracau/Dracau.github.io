@@ -19,4 +19,4 @@ Dans ce jeu on joue un ours qui essaie de dormir mais est gêné par la fête br
 
 ![](../assets/images/i-cant-bear-you-end.gif)
 
-Dans ce projet j'ai pris le rôle de développeur gameplay et tool. Je me suis principalement centré sur la modularite du contrôleur du joueur, sur le système d'objets et la fluidité de leur intégration par les tools.
+Dans ce projet j'ai pris le rôle de développeur gameplay et tool. Je me suis principalement concentré sur la modularite du contrôleur du joueur, sur le système d'objets et la fluidité de leur intégration par les tools.

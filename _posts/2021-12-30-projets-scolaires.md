@@ -13,12 +13,22 @@ row1:
     alt: "I Can't Bear You"
     title: "I Can't Bear You"
     excerpt: >
-      Projet de jeu similaire à la série des Wario Ware, réalisé en coopération avec 40 élèves, entre novembre 2022 et janvier 2023.
+      Projet de jeu d'infiltration et défouloir à destination de Steam, réalisé entre novembre 2022 et janvier 2023.
     btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
     btn_class: "btn--primary"
     url: /i-cant-bear-you/
 
 row2:
+  - image_path: /assets/images/rabbit-splash.png
+    alt: "Mochi Mochi Space Rabbit"
+    title: "Mochi Mochi Space Rabbit"
+    excerpt: >
+      Projet de jeu mobile de cuisine, réalisé entre février et juin 2022.
+    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
+    btn_class: "btn--primary"
+    url: /mochi-mochi-space-rabbit/
+
+row3:
   - image_path: /assets/images/Crimeware.png
     alt: "CrimeWare : Neon Heist"
     title: "CrimeWare : Neon Heist"
@@ -28,7 +38,7 @@ row2:
     btn_class: "btn--primary"
     url: /wario-ware/
 
-row3:
+row4:
   - image_path: /assets/images/rubika.png
     alt: "Prototypes variés"
     title: "Prototypes variés"
@@ -38,7 +48,7 @@ row3:
     btn_class: "btn--primary"
     url: /prototypes/
 
-row4:
+row5:
   - image_path: /assets/images/rpi.png
     alt: "Station météo"
     title: "Station météo"
@@ -56,3 +66,5 @@ row4:
 {% include feature_row id="row3" type="left" %}
 
 {% include feature_row id="row4" type="right" %}
+
+{% include feature_row id="row5" type="left" %}
