@@ -19,7 +19,7 @@ row1:
     url: /i-cant-bear-you/
 
 row2:
-  - image_path: /assets/images/rabbit-splash.png
+  - image_path: /assets/images/rabbit-splash.PNG
     alt: "Mochi Mochi Space Rabbit"
     title: "Mochi Mochi Space Rabbit"
     excerpt: >
