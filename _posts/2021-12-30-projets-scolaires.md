@@ -26,7 +26,7 @@ row2:
       Projet de jeu Twin Stick Shooter, réalisé en 2 semaines en mars 2023.
     btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
     btn_class: "btn--primary"
-    url: /i-cant-bear-you/
+    url: /magic-mouse/
     
 row3:
   - image_path: /assets/images/logo-bear.png
