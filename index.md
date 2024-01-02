@@ -19,7 +19,7 @@ row1:
     url: /projets-professionnels/
 
 row2:
-  - image_path: /assets/images/ecoles.png
+  - image_path: /assets/images/spellgazer-door.png
     alt: "Projets Scolaires"
     title: "Projets Scolaires"
     excerpt: >

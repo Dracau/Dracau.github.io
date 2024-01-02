@@ -19,4 +19,4 @@ Dans ce jeu de puzzle coopératif, les 2 joueurs incarnent chacun une souris mag
 
 ![](../assets/images/magic-mouse-gameplay-duo.gif)
 
-Dans ce projet j'ai pris le rôle de développeur gameplay et tool. Je me suis principalement concentré sur la physique de la balle, sur les actions des joueurs et sur un outil permettant de générer le chemin selon une spline.
+Dans ce projet j'ai pris le rôle de développeur Unity gameplay et tool. Je me suis principalement concentré sur la physique de la balle, sur les actions des joueurs et sur un outil permettant de générer le chemin selon une spline.
