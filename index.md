@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.3
   overlay_image: /assets/images/eco-runner-animated.gif
 excerpt: >
-  Mon portfolio
+  Bienvenue sur mon portfolio !
 row1:
   - image_path: /assets/images/eco-runner.png
     alt: "Projets Professionnels"
