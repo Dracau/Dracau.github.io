@@ -19,16 +19,6 @@ row1:
     url: /projets-professionnels/
 
 row2:
-  - image_path: /assets/images/GT-fighting-game.png
-    alt: "Projets Personnels"
-    title: "Projets Personnels"
-    excerpt: >
-      Projets réalisés dans un cadre personnel, seul ou avec des amis.
-    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
-    btn_class: "btn--primary"
-    url: /projets-personnels/
-
-row3:
   - image_path: /assets/images/ecoles.png
     alt: "Projets Scolaires"
     title: "Projets Scolaires"
@@ -37,6 +27,17 @@ row3:
     btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
     btn_class: "btn--primary"
     url: /projets-scolaires/
+  
+
+row3:
+  - image_path: /assets/images/GT-fighting-game.png
+    alt: "Projets Personnels"
+    title: "Projets Personnels"
+    excerpt: >
+      Projets réalisés dans un cadre personnel, seul ou avec des amis.
+    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
+    btn_class: "btn--primary"
+    url: /projets-personnels/
 
 ---
 
