@@ -19,11 +19,11 @@ row1:
     url: /i-cant-bear-you/
     
 row2:
-  - image_path: /assets/images/logo-bear.png
+  - image_path: /assets/images/magic-mouse.png
     alt: "Magic Mouse"
     title: "Magic Mouse"
     excerpt: >
-      Projet de jeu d'infiltration et défouloir à destination de Steam, réalisé entre novembre 2022 et janvier 2023.
+      Projet de jeu Twin Stick Shooter, réalisé en 2 semaines en mars 2023.
     btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
     btn_class: "btn--primary"
     url: /i-cant-bear-you/
