@@ -10,6 +10,26 @@ header:
   overlay_filter: 0.3
 row1:
   - image_path: /assets/images/logo-bear.png
+    alt: "SpellGazer"
+    title: "SpellGazer"
+    excerpt: >
+      Projet de jeu d'infiltration et défouloir à destination de Steam, réalisé entre novembre 2022 et janvier 2023.
+    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
+    btn_class: "btn--primary"
+    url: /i-cant-bear-you/
+    
+row2:
+  - image_path: /assets/images/logo-bear.png
+    alt: "Magic Mouse"
+    title: "Magic Mouse"
+    excerpt: >
+      Projet de jeu d'infiltration et défouloir à destination de Steam, réalisé entre novembre 2022 et janvier 2023.
+    btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
+    btn_class: "btn--primary"
+    url: /i-cant-bear-you/
+    
+row3:
+  - image_path: /assets/images/logo-bear.png
     alt: "I Can't Bear You"
     title: "I Can't Bear You"
     excerpt: >
@@ -18,7 +38,7 @@ row1:
     btn_class: "btn--primary"
     url: /i-cant-bear-you/
 
-row2:
+row4:
   - image_path: /assets/images/rabbit-splash.PNG
     alt: "Mochi Mochi Space Rabbit"
     title: "Mochi Mochi Space Rabbit"
@@ -28,7 +48,7 @@ row2:
     btn_class: "btn--primary"
     url: /mochi-mochi-space-rabbit/
 
-row3:
+row5:
   - image_path: /assets/images/Crimeware.png
     alt: "CrimeWare : Neon Heist"
     title: "CrimeWare : Neon Heist"
@@ -38,7 +58,7 @@ row3:
     btn_class: "btn--primary"
     url: /wario-ware/
 
-row4:
+row6:
   - image_path: /assets/images/rubika.png
     alt: "Prototypes variés"
     title: "Prototypes variés"
@@ -48,7 +68,7 @@ row4:
     btn_class: "btn--primary"
     url: /prototypes/
 
-row5:
+row7:
   - image_path: /assets/images/rpi.png
     alt: "Station météo"
     title: "Station météo"
@@ -68,3 +88,7 @@ row5:
 {% include feature_row id="row4" type="right" %}
 
 {% include feature_row id="row5" type="left" %}
+
+{% include feature_row id="row6" type="right" %}
+
+{% include feature_row id="row7" type="left" %}
