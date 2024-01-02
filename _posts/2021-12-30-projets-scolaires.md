@@ -9,14 +9,14 @@ header:
   overlay_image: 
   overlay_filter: 0.3
 row1:
-  - image_path: /assets/images/logo-bear.png
+  - image_path: /assets/images/spellgazer-logo.png
     alt: "SpellGazer"
     title: "SpellGazer"
     excerpt: >
-      Projet de jeu d'infiltration et défouloir à destination de Steam, réalisé entre novembre 2022 et janvier 2023.
+      Jeu d'exploration et d'observation, projet de fin d'études réalisé entre octobre 2023 et juillet 2024.
     btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
     btn_class: "btn--primary"
-    url: /i-cant-bear-you/
+    url: /spellgazer/
     
 row2:
   - image_path: /assets/images/magic-mouse.png
