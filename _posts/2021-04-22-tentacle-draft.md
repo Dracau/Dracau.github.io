@@ -19,6 +19,8 @@ Quand le joueur atteint certains seuils de points, la difficulté du jeu augment
 
 ![](../assets/images/tentacle-draft-2.gif)
 
-J’ai réalisé ce jeu seul en C# sur Unity, il s’agit de mon premier projet de Jam et de mon premier jeu « complet ». Bien que ce jeu soit simple et que je n’aie pas pu inclure toutes mes idées, je suis fier d’avoir pu produire un prototype jouable dans le délai imparti, et cela uniquement sur mon temps libre.
+J’ai réalisé ce jeu seul en C# sur Unity, il s’agit de mon premier projet de Jam et de mon premier jeu « complet ». Bien que ce jeu soit simple et que je n’aie pas pu inclure toutes mes idées, je suis fier d’avoir pu produire mon premier prototype jouable dans le délai imparti, et cela uniquement sur mon temps libre.
 
 Les retours sur ce jeu ont été très encourageants, qu'ils viennent de mes amis ou des autres participants de la Jam, d'autant que les axes d'amélioration qui m'ont été donnés correspondaient aux idées que je n'ai pas eu le temps d'inclure.
+
+Ce jeu n'est pas très impressionnant techniquement, mais c'est en le faisant que j'ai compris que mon métier devait être développeur de jeux vidéos, et pour cela je l'aime !
