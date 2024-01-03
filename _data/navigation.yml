@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Projets Personnels"
-    url: /projets-personnels/
+  - title: "Professional Projects"
+    url: /projets-professionnels/
   - title: "Projets Scolaires"
     url: /projets-scolaires/
+  - title: "Projets Personnels"
+    url: /projets-personnels/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
