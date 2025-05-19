@@ -1,5 +1,5 @@
 ---
-title:  "Projets professionnels"
+title:  "Expériences Professionnelles"
 excerpt: >
   
 layout: categories
@@ -9,7 +9,7 @@ header:
   overlay_image: 
   overlay_filter: 0.3
 row1:
-  - image_path: /assets/images/magic-mouse.png
+  - image_path: /assets/images/sporty-peppers.png
     alt: "Sporty Peppers"
     title: "Sporty Peppers"
     excerpt: >
