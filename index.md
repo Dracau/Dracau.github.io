@@ -9,7 +9,7 @@ header:
 excerpt: >
   Bienvenue sur mon portfolio !
 row1:
-  - image_path: /assets/images/eco-runner.png
+  - image_path: /assets/images/sporty-peppers-logo.png
     alt: "Expériences Professionnelles"
     title: "Expériences Professionnelles"
     excerpt: >
