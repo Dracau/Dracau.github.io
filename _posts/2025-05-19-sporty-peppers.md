@@ -1,5 +1,5 @@
 ---
-title:  "Spellgazer"
+title:  "Sporty Peppers"
 excerpt: >
   
 classes: wide

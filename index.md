@@ -10,8 +10,8 @@ excerpt: >
   Bienvenue sur mon portfolio !
 row1:
   - image_path: /assets/images/eco-runner.png
-    alt: "Projets Professionnels"
-    title: "Projets Professionnels"
+    alt: "Expériences Professionnelles"
+    title: "Expériences Professionnelles"
     excerpt: >
       Projets réalisés dans un cadre professionnel.
     btn_label: "<i class='fas fa-info-circle'></i> En savoir plus"
