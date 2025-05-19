@@ -9,7 +9,7 @@ header:
   overlay_image: 
   overlay_filter: 0.3
 row1:
-  - image_path: /assets/images/sporty-peppers.png
+  - image_path: /assets/images/sporty-peppers-logo.png
     alt: "Sporty Peppers"
     title: "Sporty Peppers"
     excerpt: >
